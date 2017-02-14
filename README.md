@@ -6,7 +6,7 @@ video demo: https://vimeo.com/195431228
 Staying loyal to my usual aesthetic and everlasting motivation of making a beautiful, virtual environment… 
 
 For starters, it was unfortunate that I didn’t have the confidence to get started and learn OpenFrameworks 
-within the timeframe of this project; it is definitely something I want to pick up and utilize in the future–especially 
+within the timeframe of this personal project; it is definitely something I want to pick up and utilize in the future–especially 
 since this project really hammered in to me what the limits of Processing were. For an interactive environment, Processing will 
 undeniably start running super slowly because of all the assets involved; this actually limited what interactivity and aesthetics 
 I wanted to include in this environment, and I had to prioritize what to keep without sacrificing a sense of completion in the 
